@@ -6,7 +6,7 @@
 * [Связь с Администрацией Белозерского округа](https://belozerskij-r45.gosweb.gosuslugi.ru/ofitsialno/struktura-munitsipalnogo-obrazovaniya/administratsiya-belozerskogo-munitsipalnogo-okruga/)  
 * [Телефонный справочник организаций Белозерского округа](https://belozerskoe45.github.io/help/#телефонный-справочник-организаций-белозерского-округа)  
 * [Образовательные учреждения Белозерского округа](https://belozerskoe45.github.io/help/#образовательные-учреждения-белозерского-округа)
-* Отключения электроэнергии, газа и воды  
+* Электроэнергия, газоснабжение и водоснабжение
 * Достопримечательности Белозерского округа  
 * Краткая справка о Белозерском округе  
 * Организация досуга детей  
@@ -85,11 +85,14 @@
 
 [*В начало*](https://belozerskoe45.github.io/help/#содержание)
 
-## Отключения электроэнергии, газа и воды  
-### Отключения электроэнергии
+## Электроэнергия, газоснабжение и водоснабжение
+### Электроэнергия
 По вопросам отключения электроэнергии Вы можете обратиться в диспетчерскую Районных электросетей по номеру телефона [+7(35-232)2-48-91](tel:+7(35-232)2-48-91).    
-Так же отслеживать отключения электроэнергии Вы сможете на сайте ПАО "СУЭНКО": [График плановых отключения](https://www.suenco.ru/otklucheniya/elektrosnabzhenie/planovye-otklyucheniya1/kurgan/) | [Аварийные отключения](https://www.suenco.ru/otklucheniya/elektrosnabzhenie/ekstrennye-otklyucheniya/kurgan/)   
+Так же отслеживать отключения электроэнергии Вы сможете на сайте ПАО "СУЭНКО": [График плановых отключения](https://www.suenco.ru/otklucheniya/elektrosnabzhenie/planovye-otklyucheniya1/kurgan/) | [Аварийные отключения](https://www.suenco.ru/otklucheniya/elektrosnabzhenie/ekstrennye-otklyucheniya/kurgan/)        
+         
+Передать показания, оплатить и получить квитанцию 
 
+### По вопросам газоснабжения
 
 -----------
 *© Информационное сообщество "Белозерское" | [vk.com/belozerskoe45](https://vk.com/belozerskoe45)      
